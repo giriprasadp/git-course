@@ -1,2 +1,2 @@
 second file;
-second line;
+second line; second word
